@@ -1,0 +1,2 @@
+# BattleMate
+Warzone Tournament Organisator
